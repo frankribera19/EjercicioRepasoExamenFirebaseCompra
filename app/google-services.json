@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "138403660981",
+    "firebase_url": "https://lista-de-la-compra-fireb-98c60-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lista-de-la-compra-fireb-98c60",
+    "storage_bucket": "lista-de-la-compra-fireb-98c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138403660981:android:10fb9e66c3a1691488aafc",
+        "android_client_info": {
+          "package_name": "com.example.ejerciciorepasoexamenfirebasecompra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138403660981-vc36oa507209udvugt11ntt6p3oo3dhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4m4raUmuITESvE2l89UBnikZPY-RqRDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138403660981-vc36oa507209udvugt11ntt6p3oo3dhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138403660981:android:1b361c5847ebb9fe88aafc",
+        "android_client_info": {
+          "package_name": "com.example.listacomprafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138403660981-vc36oa507209udvugt11ntt6p3oo3dhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4m4raUmuITESvE2l89UBnikZPY-RqRDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138403660981-vc36oa507209udvugt11ntt6p3oo3dhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138403660981:android:9eaa903376ffe10588aafc",
+        "android_client_info": {
+          "package_name": "com.example.listadelacomprafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138403660981-vc36oa507209udvugt11ntt6p3oo3dhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4m4raUmuITESvE2l89UBnikZPY-RqRDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138403660981-vc36oa507209udvugt11ntt6p3oo3dhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
